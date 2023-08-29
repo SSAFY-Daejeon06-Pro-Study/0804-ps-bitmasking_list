@@ -19,7 +19,7 @@ import java.util.StringTokenizer;
  *
  * 시간 복잡도 = 모든 연산의 시간복잡도는 O(1)이므로 O(M)
  */
-public class Main_BJ_11723 {
+public class Main_BJ_11723_집합 {
     static int set;
 
     public static void main(String[] args) throws IOException {
